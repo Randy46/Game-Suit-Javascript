@@ -1,0 +1,38 @@
+// var angka1 = 5.6;
+// var hasil1 = Math.round(angka1);
+// console.log(hasil1)
+
+// var angka = 3.7;
+// var hasil = Math.round(angka);
+// console.log(hasil);
+
+// var angka12 = 6.6;
+// var hasil12 = Math.floor(angka12);
+// console.log(hasil12)
+
+// var angka = 4.9;
+// var hasil = Math.floor(angka);
+// console.log(hasil); // Output: 4
+
+// var angka13 = 5.1;
+// var hasil13 = Math.ceil(angka13);
+// console.log(hasil13)
+
+// var angka4 = 2.1;
+// var hasil4 = Math.ceil(angka4);
+// console.log(hasil4); // Output: 3
+
+// var angka = [2.3, 4.7, 5.6, 7.9];
+// console.log("Sebelum dibulatkan: " + angka);
+
+// for (var i = 0; i < angka.length; i++) {
+//     angka[i] = Math.floor(angka[i]);
+// }
+
+// console.log("Setelah dibulatkan: " + angka);
+
+// var angka = Math.random() * 10;
+// console.log("Sebelum dibulatkan: " + angka);
+
+// var hasil = Math.floor(angka);
+// console.log("Setelah dibulatkan: " + hasil);
